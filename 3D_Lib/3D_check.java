@@ -163,7 +163,7 @@ public class Carriage  implements Cloneable {
 //		zerobox.setWidth(0);
 //		zerobox.setXCoor(0);
 //		zerobox.setYCoor(0);
-//		zerobox.setZCoor(0);
+//		zerobox.setZCoor(0); */
 //		boolean insertConfirm;//是否成功插入当前箱子。
 //		double thisVI = 0.0;//保存检测到的当前plan的覆盖体积。
 //		boolean[] adjustableFlag = new boolean[evolve_Boxes.size()];
